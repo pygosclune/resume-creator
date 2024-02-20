@@ -1,0 +1,32 @@
+.personal-info {
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    background-color: #89CFF3;
+    padding: 5rem;
+    gap: 5rem;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.info-section {
+    margin-top: 1rem;
+    padding: 0 3rem;
+}
+
+.header-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #89CFF3;
+    margin-bottom: 0.75rem;
+    padding: 0.25rem 0;
+    text-align: center;
+}
+
+.work-info {
+    margin-bottom: 4rem;
+}

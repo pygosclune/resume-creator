@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat');
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #00A9FF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', Courier, monospace;
+}
